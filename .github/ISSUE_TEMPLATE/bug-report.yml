@@ -89,6 +89,13 @@ body:
       description: >
         Please provide your log file. Refer to the wiki to find your log file:
         https://github.com/sumneko/lua-language-server/wiki/FAQ#where-can-i-find-the-log-file
+      placeholder: |
+        <details>
+        <summary>Log</summary>
+
+        PASTE LOG HERE
+
+        </details>
   - type: markdown
     attributes:
       value: |
